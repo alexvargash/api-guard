@@ -1,5 +1,5 @@
 {
-    "name": "chrisbjr/api-guard",
+    "name": "alexvargash/api-guard",
     "description": "A simple way of authenticating your APIs with API keys using Laravel",
     "keywords": [
         "api",
@@ -9,21 +9,17 @@
         "api authentication",
         "laravel"
     ],
-    "homepage": "https://github.com/chrisbjr/api-guard",
+    "homepage": "https://github.com/alexvargash/api-guard",
     "authors": [
         {
-            "name": "Chris Bautista",
-            "email": "chrisbjr@gmail.com"
-        },
-        {
-            "name": "Mark Jayson Fuentes",
-            "email": "awkwardusername@gmail.com"
+            "name": "Alex Vargas",
+            "email": "alexvargas.dev@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.6.4",
-        "illuminate/support": "^5.3.0",
-        "illuminate/database": "^5.3.0",
+        "php": ">=7.0",
+        "illuminate/support": "^6.1.0",
+        "illuminate/database": "^6.1.0",
         "ellipsesynergie/api-response": "*"
     },
     "require-dev": {
