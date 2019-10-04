@@ -18,8 +18,8 @@
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/support": "^6.1.0",
-        "illuminate/database": "^6.1.0",
+        "illuminate/support": "*",
+        "illuminate/database": "*",
         "ellipsesynergie/api-response": "*"
     },
     "require-dev": {
